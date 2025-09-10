@@ -9,7 +9,7 @@ Engine DJ software run well with wine in Linux, but it can't sync anything. USB 
 
 This program is an external tool that allows the synchronization of libraries between external and internal drives so that Engine DJ can be used in Linux environment in a complete way.
 
-This is the final version 1.1.2
+This is the final version 1.1.3
 
 News:
 
